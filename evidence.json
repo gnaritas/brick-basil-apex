@@ -1,0 +1,85 @@
+{
+ "shop": "Brick & Basil",
+ "slug": "brick-basil-apex",
+ "built": "2026-11-24",
+ "sources": {
+  "press": "https://www.businessdebut.com/local-chef-and-food-truck-operator-opening-brick-basil-in-apex/ (Ross McWaters, 2026-11-24, phone interview; local copy evidence/article.txt)",
+  "fb": "https://www.facebook.com/profile.php?id=61571583961194 (owner-published intro + 'from food truck roots to our forever home' post; card-verified 2026-11-24)",
+  "town": "Town of Apex APO 26-034 plan review PDF (search-snippet verified 2026-11-24: patio scope '1801 Chatham Flats Drive, Suite 4')",
+  "truck": "https://www.facebook.com/rollingdeepfoodtrucks / rollingdeep.com (truck specialization: Reuben egg rolls, Detroit-style deep dish)"
+ },
+ "claims": [
+  [
+   "name/handles",
+   "Brick & Basil; FB /brickandbasilnc; IG @brickandbasil.nc",
+   "press+fb+scan"
+  ],
+  [
+   "address",
+   "1801 Chatham Flats Drive #4 (Suite 4), Apex, NC 27502 \u2014 The Ballast on Salem",
+   "press (#4) + town PDF (Suite 4) + card"
+  ],
+  [
+   "opening window",
+   "early 2027 (press target April 2027; FB 'early 2027'; site says 'early 2027' only, never a day)",
+   "press + fb"
+  ],
+  [
+   "plans status copy",
+   "plans submitted to city of Apex; construction next",
+   "press"
+  ],
+  [
+   "chef/owner",
+   "Scott Harvey; grew up in restaurant business, father a chef; upstate NY high-end kitchens; restaurant consulting (openings/ops/buildouts); ~4 years ago started Harvey Hospitality Catering + Rolling Deep truck",
+   "press"
+  ],
+  [
+   "farm childhood quote",
+   "'My grandfather was a butcher, and I didn't even see a grocery store till I was 16'",
+   "press (exact quote)"
+  ],
+  [
+   "truck",
+   "Rolling Deep specialized in Detroit-style deep dish pizzas and fusion egg rolls; on hiatus during buildout; catering continues",
+   "press + truck FB"
+  ],
+  [
+   "gap motivation",
+   "truck success + gap he saw in the market for high-quality deep dish pizza",
+   "press"
+  ],
+  [
+   "menu program",
+   "handmade pasta focus; Detroit-style deep dish; focaccia sandwiches; other Italian dishes",
+   "press"
+  ],
+  [
+   "sourcing rules",
+   "most ingredients imported from Italy + local organic products + area farmers; mozzarella stretched on site; organically milled flour; gluten-free options intended; filtered tap water; scratch, no preservatives",
+   "press"
+  ],
+  [
+   "room",
+   "~50 seats inside + 35 on newly built patio; pasta room enclosed in glass (pasta, pizza dough, other items in view); state-of-the-art equipment; QR self-seating w/ phone ordering or full table service",
+   "press"
+  ],
+  [
+   "phone/email",
+   "(919) 346-4742 / info@brickandbasilnc.com",
+   "fb (owner self-published intro; card-verified)"
+  ],
+  [
+   "FB forever-home line",
+   "'from food truck roots to our forever home'",
+   "fb (owner post)"
+  ],
+  [
+   "omitted (unknown)",
+   "hours, exact opening day, prices, named menu items, POS/booking, awards",
+   "omitted by rule \u2014 never guessed"
+  ]
+ ],
+ "geo_note": "JSON-LD geo lat/lon (35.71645,-78.87553) = Nominatim centroid of '1801 Chatham Flats Drive' way (OpenStreetMap), used only for map/JSON-LD precision; human-readable address is the primary locator.",
+ "no_site_evidence": "brickandbasilnc.com RDAP registered 2026-08-01 but serves Squarespace 404 'Website Expired'; no A record on any brickandbasil*-style variant; GBP website field empty; brand SERP shows no own-brand site"
+}
