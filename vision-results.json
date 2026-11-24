@@ -1,0 +1,122 @@
+[
+ {
+  "shot": "s1_catering_desktop.png",
+  "verdict": "CLEAN",
+  "text": "VERDICT: CLEAN"
+ },
+ {
+  "shot": "s1_catering_mobile.png",
+  "verdict": "CLEAN",
+  "text": "VERDICT: CLEAN"
+ },
+ {
+  "shot": "s1_contact_desktop.png",
+  "verdict": "CLEAN",
+  "text": "VERDICT: CLEAN"
+ },
+ {
+  "shot": "s1_contact_mobile.png",
+  "verdict": "CLEAN",
+  "text": "VERDICT: CLEAN"
+ },
+ {
+  "shot": "s1_detroit-deep-dish_desktop.png",
+  "verdict": "CLEAN",
+  "text": "VERDICT: CLEAN"
+ },
+ {
+  "shot": "s1_detroit-deep-dish_mobile.png",
+  "verdict": "CLEAN",
+  "text": "VERDICT: CLEAN"
+ },
+ {
+  "shot": "s1_focaccia-sandwiches_desktop.png",
+  "verdict": "CLEAN",
+  "text": "VERDICT: CLEAN"
+ },
+ {
+  "shot": "s1_focaccia-sandwiches_mobile.png",
+  "verdict": "CLEAN",
+  "text": "VERDICT: CLEAN"
+ },
+ {
+  "shot": "s1_handmade-pasta_desktop.png",
+  "verdict": "CLEAN",
+  "text": "VERDICT: CLEAN"
+ },
+ {
+  "shot": "s1_handmade-pasta_mobile.png",
+  "verdict": "CLEAN",
+  "text": "VERDICT: CLEAN"
+ },
+ {
+  "shot": "s1_index_desktop.png",
+  "verdict": "CLEAN",
+  "text": "VERDICT: CLEAN"
+ },
+ {
+  "shot": "s1_index_mobile.png",
+  "verdict": "CLEAN",
+  "text": "VERDICT: CLEAN"
+ },
+ {
+  "shot": "s1_menu_desktop.png",
+  "verdict": "CLEAN",
+  "text": "VERDICT: CLEAN"
+ },
+ {
+  "shot": "s1_menu_mobile.png",
+  "verdict": "CLEAN",
+  "text": "VERDICT: CLEAN"
+ },
+ {
+  "shot": "s1_notfound_desktop.png",
+  "verdict": "CLEAN",
+  "text": "VERDICT: CLEAN"
+ },
+ {
+  "shot": "s1_notfound_mobile.png",
+  "verdict": "CLEAN",
+  "text": "VERDICT: CLEAN"
+ },
+ {
+  "shot": "s1_our-story_desktop.png",
+  "verdict": "CLEAN",
+  "text": "VERDICT: CLEAN"
+ },
+ {
+  "shot": "s1_our-story_mobile.png",
+  "verdict": "CLEAN",
+  "text": "VERDICT: CLEAN"
+ },
+ {
+  "shot": "s1_privacy_desktop.png",
+  "verdict": "CLEAN",
+  "text": "VERDICT: CLEAN"
+ },
+ {
+  "shot": "s1_privacy_mobile.png",
+  "verdict": "CLEAN",
+  "text": "VERDICT: CLEAN"
+ },
+ {
+  "shot": "s1_thanks_desktop.png",
+  "verdict": "CLEAN",
+  "text": "VERDICT: CLEAN"
+ },
+ {
+  "shot": "s1_thanks_mobile.png",
+  "verdict": "CLEAN",
+  "text": "VERDICT: CLEAN"
+ },
+ {
+  "shot": "s1_visit_desktop.png",
+  "verdict": "CLEAN",
+  "text": "VERDICT: CLEAN"
+ },
+ {
+  "shot": "s1_visit_mobile.png",
+  "verdict": "CLEAN",
+  "text": "VERDICT: CLEAN"
+ }
+]
